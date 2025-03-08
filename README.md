@@ -1,4 +1,5 @@
 # Google Clone
+![image](https://github.com/user-attachments/assets/e0a5f938-d82d-4e84-aa71-5d57830f87ad)
 
 Este é um projeto Open Source que reproduz a página principal do Google e a página de pesquisa. Desenvolvido utilizando React.
 
